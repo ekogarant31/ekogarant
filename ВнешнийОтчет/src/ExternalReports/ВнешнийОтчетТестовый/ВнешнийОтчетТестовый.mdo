@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d41be42d-b0cf-41f1-bed8-59437acca4af">
+  <producedTypes>
+    <objectType typeId="b7a0a567-4670-4b97-8fc8-5ac338a388cb" valueTypeId="8a0670cb-1ac4-498c-9820-f85eb1276a02"/>
+  </producedTypes>
+  <name>ВнешнийОтчетТестовый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Внешний отчет тестовый</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="3fe3a98b-99f3-42ca-b7fe-a6eb95b9145e"/>
+</mdclass:ExternalReport>
